@@ -24,7 +24,7 @@ https://github.com/NVIDIA/apex/issues/1227
 ```
 
 ## How to run
-Run `run.sh`. Logs are under `my/`.
+Run by `bash run.sh`. Logs are under `my/`.
 
 ## Key files
 `main.py` contains main training code, and `models/model.py` contains model design.
