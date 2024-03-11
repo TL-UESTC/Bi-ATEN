@@ -1,5 +1,5 @@
 # Bi-ATEN
-Pytorch implementation of AAAI2024 paper Agile Multi-Source-Free Domain Adaptation.
+Pytorch implementation of [Agile Multi-Source-Free Domain Adaptation](http://arxiv.org/abs/2403.05062) *(AAAI'24)*.
 
 ## Additional figures
 We provide figures with full legends in `figs-with-full-legends/` folder, with additional examples of Figure 5.
